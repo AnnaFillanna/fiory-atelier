@@ -2,6 +2,8 @@
 
 [Projekt auf GitHub ansehen](https://github.com/AnnaFillanna/fiory-atelier)
 
+Lokale Vorschau (wenn der Entwicklungsserver läuft): [http://localhost:5173/](http://localhost:5173/)
+
 Ein responsives Portfolio-Demoprojekt für ein fiktives Premium-Blumenatelier. Die Anwendung umfasst eine redaktionell gestaltete Startseite, eine nach Anlass filterbare Bouquet-Kollektion, Produktdetails, einen funktionalen Bouquet-Konfigurator und einen Demo-Warenkorb.
 
 > **Demo-Projekt – keine echten Bestellungen möglich.** Es gibt keine Zahlung, Backend-Anbindung oder Speicherung personenbezogener Daten. Die „Demo-Bestellung“ leert den lokalen Warenkorb und bestätigt nur die Simulation im Browser.
